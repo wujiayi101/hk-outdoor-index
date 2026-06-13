@@ -1,0 +1,66 @@
+{
+  "lang": "en",
+  "score": 2,
+  "level": {
+    "label": "Unsuitable",
+    "emoji": "🔴",
+    "tone": "red"
+  },
+  "factors": [
+    {
+      "key": "temp",
+      "value": "30°C",
+      "status": "warn",
+      "note": "Warm — stay hydrated"
+    },
+    {
+      "key": "humidity",
+      "value": "95%",
+      "status": "bad",
+      "note": "Very humid and muggy — sweat won't evaporate"
+    },
+    {
+      "key": "rain",
+      "value": "Storm / Heavy rain",
+      "status": "bad",
+      "note": "Thunderstorm / heavy rain — outdoor exercise dangerous"
+    },
+    {
+      "key": "aqhi",
+      "value": "3",
+      "status": "good",
+      "note": "Good air quality"
+    },
+    {
+      "key": "vis",
+      "value": "29 km",
+      "status": "good",
+      "note": "Good visibility"
+    }
+  ],
+  "advice": [
+    "Not recommended outdoors — indoor is better.",
+    "Very humid and muggy — sweat won't evaporate",
+    "Thunderstorm / heavy rain — outdoor exercise dangerous"
+  ],
+  "forecast": {
+    "date": "20260614",
+    "weather": "Cloudy with showers and squally thunderstorms. Showers will be heavy at times.",
+    "wind": "Southwest force 4 to 5, occasionally force 6 offshore and on high ground.",
+    "psr": "High",
+    "maxT": 29,
+    "minT": 26,
+    "maxRH": 95
+  },
+  "obs": {
+    "tempMax": 30,
+    "tempHKO": 29,
+    "humidity": 81,
+    "uv": null,
+    "visibility": 29,
+    "aqhi": 3
+  },
+  "warnings": [],
+  "updatedAt": "2026-06-13T13:57:42.910Z",
+  "source": "HK Observatory (HKO) + EPD open data"
+}
