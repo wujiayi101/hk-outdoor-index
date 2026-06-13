@@ -1,5 +1,7 @@
 # 今日戶外運動合適指數 · HK Outdoor Exercise Index
 
+> **🔗 線上版 / Live：https://hk-outdoor-index.pages.dev**（中文 / EN 可切換）
+
 香港每日「戶外運動合適度」評分（1–10），結合 [香港天文台](https://www.hko.gov.hk) 與 [環保署](https://www.aqhi.gov.hk) 公開數據:
 
 | 因素 | 來源 |
