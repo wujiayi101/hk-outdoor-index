@@ -1,0 +1,70 @@
+{
+  "score": 2,
+  "level": {
+    "label": "不宜",
+    "emoji": "🔴",
+    "tone": "red"
+  },
+  "factors": [
+    {
+      "key": "temp",
+      "name": "氣溫",
+      "value": "30°C",
+      "status": "warn",
+      "note": "溫暖,適量補水"
+    },
+    {
+      "key": "humidity",
+      "name": "濕度",
+      "value": "95%",
+      "status": "bad",
+      "note": "非常潮濕焗促,汗水難蒸發"
+    },
+    {
+      "key": "rain",
+      "name": "降雨",
+      "value": "雷暴/大雨",
+      "status": "bad",
+      "note": "有雷暴/大雨,戶外運動危險"
+    },
+    {
+      "key": "aqhi",
+      "name": "空氣質素 AQHI",
+      "value": "3",
+      "status": "good",
+      "note": "空氣質素良好"
+    },
+    {
+      "key": "vis",
+      "name": "能見度",
+      "value": "29 km",
+      "status": "good",
+      "note": "能見度良好"
+    }
+  ],
+  "advice": [
+    "不建議戶外運動,改室內為佳。",
+    "非常潮濕焗促,汗水難蒸發",
+    "有雷暴/大雨,戶外運動危險"
+  ],
+  "forecast": {
+    "date": "20260614",
+    "weather": "多雲，有驟雨及狂風雷暴，雨勢有時頗大。",
+    "wind": "西南風4至5級，離岸及高地間中6級。",
+    "psr": "高",
+    "maxT": 29,
+    "minT": 26,
+    "maxRH": 95
+  },
+  "obs": {
+    "tempMax": 30,
+    "tempHKO": 29,
+    "humidity": 81,
+    "uv": null,
+    "visibility": 29,
+    "aqhi": 3
+  },
+  "warnings": [],
+  "updatedAt": "2026-06-13T13:43:11.294Z",
+  "source": "香港天文台 (HKO) + 環保署 (EPD) 公開數據"
+}
